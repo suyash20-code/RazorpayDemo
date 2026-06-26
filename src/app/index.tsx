@@ -7,7 +7,7 @@ export default function HomeScreen() {
     const options = {
       description: "Payment for Order",
       currency: "INR",
-      key: "rzp_live_ulbX2nk9nN1K8x",
+      key: "", // add your live key
       amount: 10000, // ₹100.00 in paise
       name: "Demo App",
       prefill: {
